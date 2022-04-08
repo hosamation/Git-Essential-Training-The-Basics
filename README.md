@@ -1,4 +1,4 @@
-# Programming Foundations: Fundamentals
+# Git Essential Training: The Basics
 
 015 [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics?trk=course_title&upsellOrderOrigin=default_guest_learning) Course
 
